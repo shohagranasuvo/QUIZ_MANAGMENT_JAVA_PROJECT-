@@ -1,0 +1,8 @@
+3~Which method is used to start a thread execution?~start()~init()~run()~start()~resume()
+4~Which of the following is a marker interface?~ Serializable~Runnable~ Serializable~Comparator~Cloneable
+5~Which of the following is not a valid access modifier in Java?~final~protected~final~private~public
+6~What is the size of an int in Java?~4 bytes ~4 bytes ~ 8 bytes~2 bytes~1 byte
+7~Which of the following is a superclass of every class in Java?~Object~String~Object~Class~ArrayList
+8~What is the return type of the hashCode() method in Java?~int~int~Object~long~float
+9~Which of these is a valid Java identifier?~_myVar~_myVar~123abc~void~class
+10~Which of the following is not part of the Java Collection Framework?~Stack~HashSet~Stack~LinkedList~ArrayList
