@@ -239,7 +239,7 @@ public class Home extends JFrame implements ActionListener // MouseMotionListene
                
                 int userID = Integer.parseInt(us.getID());
                 if (userID >= 100 && userID <= 10000) {
-                    JOptionPane.showMessageDialog(this, "Log in Successful as an Examiner");
+                    JOptionPane.showMessageDialog(this, "Log in Successful as an Examinee");
 
                     this.setVisible(false);
                     UserHome sh = new UserHome(us.getFirstName());
